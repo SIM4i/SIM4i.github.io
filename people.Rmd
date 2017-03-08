@@ -3,6 +3,7 @@ title: "People"
 output: "html_document"
 ---
 
+<<<<<<< HEAD
 **ESPCI**
 
 
@@ -11,16 +12,37 @@ Vincent LORIETTE (CNRS Researcher)
 Alexandra FRAGOLA (Associate Professor)
 
 ---
+=======
+----
+
+**Institut Pasteur**  
+
+Jean-Christophe OLIVO-MARIN (Head)
+William MEINIEL (PhD Student)
+Piernicola SPINICELLI (Research Engineer)
+----
+
+**ESPCI**
+
+Vincent LORIETTE (CNRS Researcher)
+Alexandra FRAGOLA (Associate Professor)
+----
+>>>>>>> 7ac4cdfdfbf5ed554afb83611cca68b2781cb083
 
 **LPNHE** 
 
 Eduardo SEPULVEDA (Research Engineer)
+<<<<<<< HEAD
 
 ---
+=======
+----
+>>>>>>> 7ac4cdfdfbf5ed554afb83611cca68b2781cb083
 
 **L2S** 
 
 François ORIEUX (Associate Professor)
+<<<<<<< HEAD
 
 ---
 
@@ -35,3 +57,6 @@ Piernicola SPINICELLI (Research Engineer)
 ---
 
 
+=======
+----
+>>>>>>> 7ac4cdfdfbf5ed554afb83611cca68b2781cb083
