@@ -1,0 +1,37 @@
+---
+title: "People"
+output: "html_document"
+---
+
+**ESPCI**
+
+
+Vincent LORIETTE (CNRS Researcher)
+
+Alexandra FRAGOLA (Associate Professor)
+
+---
+
+**LPNHE** 
+
+Eduardo SEPULVEDA (Research Engineer)
+
+---
+
+**L2S** 
+
+François ORIEUX (Associate Professor)
+
+---
+
+**Institut Pasteur**  
+
+Jean-Christophe OLIVO-MARIN (Head)
+
+William MEINIEL (PhD Student)
+
+Piernicola SPINICELLI (Research Engineer)
+
+---
+
+
