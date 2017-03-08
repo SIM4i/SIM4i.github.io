@@ -1,5 +1,5 @@
 ---
-title: "Keurcien Luu"
+title: "SIM4i"
 output:
   html_document:
     toc_float: false
@@ -20,8 +20,8 @@ $("#pageContent").removeClass("standardPadding");
   <div class="band full blue first rightText">
     <div class="bandContent vCenter">
       <div class="blurb">
-        <div class="tagline">Hi I'm Keurcien Luu.</div>
-        <div>PhD Student, Université Grenoble Alpes.</div>
+        <div class="tagline">SIM4i.</div>
+        <div>Projet.</div>
       </div>
     </div>
   </div>
