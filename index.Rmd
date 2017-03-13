@@ -32,7 +32,7 @@ $("#pageContent").removeClass("standardPadding");
 
         <div class="col-md-6">
         <p>
-            pippo
+            Welcome to the new website of SIM4i Group. You will find here news and informations about our research works.
         </p>
         
         </div>
