@@ -1,4 +1,11 @@
-body {
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="A capo automatico">
+  </head>
+  <body>
+    <pre>body {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
   background-color:#fff;
 
@@ -20,7 +27,7 @@ p {
 }
 
 .band.full.first {
-  height: 750px;
+  height:  550px;
   background-image: url("../images/entete.jpg");
   background-size: cover;
 }
@@ -742,3 +749,6 @@ iframe.scale65 {
     padding-top: 15px;
 }
 
+</pre>
+  </body>
+</html>
